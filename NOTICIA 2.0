@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Portal de Notícias - Inovação na Medicina</title>
+</head>
+<body>
+
+  <!-- Cabeçalho com logo e título -->
+  <header>
+    <img src="https://via.placeholder.com/100" alt="Logo do Portal de Notícias" style="vertical-align: middle;">
+    <h1 style="display: inline-block; margin-left: 10px;">Portal Diário de Inovações</h1>
+    <hr>
+  </header>
+
+  <!-- Conteúdo principal -->
+  <main>
+
+    <!-- Uma notícia envolvida por <article> -->
+    <article>
+      <h2><u>Descoberta Revolucionária na Medicina Pode Curar Doenças Raras</u></h2>
+      <h3><i>Pesquisadores desenvolvem tratamento inovador que promete transformar o futuro da saúde</i></h3>
+
+      <p><strong>Uma equipe internacional de cientistas</strong> anunciou nesta sexta-feira (13) uma nova abordagem terapêutica para doenças genéticas raras. A pesquisa, publicada na revista <em>Science Advances</em>, detalha o uso de uma técnica de edição genética aprimorada que pode corrigir mutações com alta precisão.</p>
+
+      <p>“<mark>Estamos diante de uma nova era na medicina</mark>, onde doenças que antes eram consideradas incuráveis agora têm uma chance real de tratamento”, afirmou a Dra. Mariana Lopes, líder da pesquisa. O estudo foi realizado em parceria com universidades do Brasil, Estados Unidos e Japão.</p>
+
+      <p>O tratamento já foi testado com sucesso em modelos animais e mostrou resultados promissores. A expectativa é que os <small>ensaios clínicos em humanos</small> comecem ainda este ano. A técnica utilizada é baseada em uma modificação do famoso método CRISPR-Cas9.</p>
+
+      <p>Segundo especialistas, <b>essa descoberta pode beneficiar milhões de pessoas</b> em todo o mundo. No entanto, há desafios éticos e regulatórios a serem superados antes da aplicação em larga escala.</p>
+    </article>
+
+  </main>
+
+  <!-- Rodapé com redes sociais -->
+  <footer>
+    <hr>
+    <h4>Siga-nos nas redes sociais:</h4>
+    <ul>
+      <li><a href="https://facebook.com" target="_blank">Facebook</a></li>
+      <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
+      <li><a href="https://instagram.com" target="_blank">Instagram</a></li>
+    </ul>
+    <p>&copy; 2025 Portal Diário de Inovações. Todos os direitos reservados.</p>
+  </footer>
+
+</body>
+</html>
